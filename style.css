@@ -1,0 +1,56 @@
+.image1 {
+  text-align: center;
+  margin-top: 50px;
+
+}
+nav {
+  padding: 15px;
+  background-color: black;
+
+}
+nav a {
+  color: white;
+  font-size: 25px;
+}
+.info {
+  text-align: center;
+}
+.about {
+  text-align: center;
+
+}
+h1 {
+  text-align: center
+}
+.sport1 img{
+  padding-left: 55px;
+  height: 200px;
+
+}
+.sport1 p{
+  padding-left: 55px
+}
+
+.sport2 img {
+  padding-left: 55px;
+  height: 200px;
+
+}
+.sport2 p {
+  padding-left: 55px;
+}
+.sport3 img {
+  padding-left: 55px;
+  height: 200px;
+
+}
+.sport3 p {
+  padding-left: 55px;
+}
+.family {
+  height: 50px;
+  text-align: center
+}
+.family p{
+  color: white;
+}
